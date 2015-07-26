@@ -10,3 +10,4 @@ insecure
 miro:preloader
 jquery
 twbs:bootstrap
+iron:router
